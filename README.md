@@ -122,7 +122,7 @@ Clone the repository and install dependencies:
 
 ```bash
 
-git clone git@github.com:hugosoa/rakuten-frontend.git
+git clone https://github.com/hugosoa/rakuten-frontend.git
 cd rakuten-frontend
 npm install
 npm run dev
