@@ -1,6 +1,6 @@
 /// <reference types="vitest" />
 import { render } from "@testing-library/react";
-import ProductCard, { Product } from "./ProductCard";
+import ProductCard, { Product } from "../ProductCard";
 
 const baseProduct: Product = {
     brand: "Apple",
