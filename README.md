@@ -113,16 +113,17 @@ The project uses **Vitest** and **Testing Library** to ensure:
 
 To run tests locally:
 
->>bash
+```bash
 
->npx vitest
-
+npx vitest
+```
 ## How to Run Locally
 Clone the repository and install dependencies:
 
->>bash
+```bash
 
->git clone git@github.com:hugosoa/rakuten-frontend.git
->cd rakuten-frontend
->npm install
->npm run dev
+git clone git@github.com:hugosoa/rakuten-frontend.git
+cd rakuten-frontend
+npm install
+npm run dev
+```
