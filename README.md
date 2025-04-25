@@ -22,7 +22,7 @@ Select one answer
 3.	A C
 4.	A C B
 
-###Answer: 4 – A C B
+### Answer: 4 – A C B
 
 Explanation:
 console.log("A") runs immediately
@@ -57,7 +57,7 @@ export default function App() {
 3.	Your counter is: 5
 4.	Your counter is: 20
 
-###Answer: 4 - Your counter is: 5
+### Answer: 4 - Your counter is: 5
 
 Explanation:
 
