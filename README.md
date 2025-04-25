@@ -6,7 +6,7 @@
 ## Answers to technical quiz questions
 
 ### 1. What is the output of this code?
-
+```
 const main = function () {
   console.log("A");
   setTimeout(function () {
@@ -15,6 +15,7 @@ const main = function () {
   console.log("C");
 };
 main();
+```
 Select one answer
 1.	A B C
 2.	B A C
@@ -34,7 +35,7 @@ After ~1000ms, "B" is logged
 
 
 ### 2. What is the output of this React code?
-
+```
 import React, { useState, useEffect } from "react";
 
 export default function App() {
@@ -48,6 +49,7 @@ export default function App() {
   );
   return <div>Your counter is: {count}</div>;
 }
+```
  Select one answer
 
 1.	Your counter is: 0
