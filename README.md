@@ -109,7 +109,6 @@ It follows Rakuten's design style and is responsive and component-driven using M
 
 The project uses **Vitest** and **Testing Library** to ensure:
 - Correct rendering with complete data
-- Conditional display when `usedPrice` is missing
 - No rendering if essential fields are missing
 
 To run tests locally:
