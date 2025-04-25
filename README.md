@@ -78,9 +78,8 @@ It follows Rakuten's design style and is responsive and component-driven using M
 
 ## Live Demo
 
-<a href="https://rakuten-frontend.vercel.app/" target="_blank" rel="noopener noreferrer">
-  View deployed project on Vercel
-</a>
+[View deployed project on Vercel](https://rakuten-frontend.vercel.app) — opens in a new tab
+
 
 ---
 
